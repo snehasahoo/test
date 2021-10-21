@@ -1,4 +1,4 @@
-#_Syntax Guide for Formating **Markdown(.md)** File_:
+#Syntax Guide for Formating **Markdown(.md)** File:
 
 Open the source code to see how it works.
 1) Bold: **Sneha** or __Sneha__
@@ -30,26 +30,20 @@ print('SnehaArtz')
 10) Task lists: Can be used in pull/issue requests.
 - [x] This is a complete item
 - [ ] This is an incomplete item
-11) Tables: You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
+11) Tables: You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Ram | Laxman
+----|-------
+10 mangoes | 20 Mangoes
+2 apples | 14 apples
 
 12) Strikethrough: Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
-13) Emoji: :smile: :rofl: just put them inside colons.
+13) Emoji: 😃 ✈️ :smile: just put them inside colons.
 
 
 
 
 
-
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
 
 ###Learning Python
 - Comments: Starts with # or """for multiple lines"""
