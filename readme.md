@@ -4,8 +4,8 @@ Open the source code to see how it works.
 1) Bold: **Sneha** or __Sneha__
 2) Italic: *Sneha* or _Sneha_
 3) Link: [SnehaArtz](https://www.instagram.com/snehasahoo97/)
-4) Image: ![SnehaArtz](https://www.facebook.com/SnehaArtz/photos/a.110570200628183/166214008397135/)
-5) List: For listing we can use bullets, numbers, dashes.
+4) Image: ![SnehaArtz](link)
+6) List: For listing we can use bullets, numbers, dashes.
   * Bullet list: Use (*) before text
   * Numbered list: Can start with ( 1)Sneha or 1.Sneha ) both works.
   * Dashes: Use (-) before text and for subpoints put two spaces before (-) or (*)
@@ -39,10 +39,6 @@ Ram | Laxman
 
 12) Strikethrough: Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 13) Emoji: 😃 ✈️ :smile: just put them inside colons.
-
-
-
-
 
 
 ###Learning Python
