@@ -48,8 +48,3 @@ Ram | Laxman
 - User=input(Print("What's your name: ")
 - Print("Good to see you",User)
 - Print("Have a nice day and keep smiling")
-
-SnehaArtz is a run by Sneha and her interests are:
-1. Charcoal
-2. Graphite
-3. Watercolour
