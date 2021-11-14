@@ -39,3 +39,22 @@ Ram | Laxman
 
 12) Strikethrough: Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 13) Emoji: 😃 ✈️ :smile: just put them inside colons.
+
+
+
+Work to be done:
+Here are some ideas to get you started:
+- 🔭 I’m currently working on Curate projects
+- 🌱 I’m currently learning Graphics Designing.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Drawing and paintings
+- 📫 How to reach me: [Instagram](https://instagram.com/snehasahoo97)
+- 😄 Pronouns: her/she
+                     
+- Support my work: Buy me a coffee
+- Learn Bioinformatics for Free: Subscribe<100 (SnehaSahoo)
+- See codes: GitHub
+- Read Blogs: Medium   
+- Connect with me: Instagram<5000 Twitter LinkedIn Facebook Pinterest Quora 
+- ⚡ Fun fact: Bioinformatics is a hybrid science who with married with Computers for speed :P    
